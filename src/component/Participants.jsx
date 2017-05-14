@@ -222,7 +222,7 @@ class ParticipantTable extends React.Component {
     });
     return (
       <div>
-      <button type="button" onClick={this.props.onRowAdd} className="btn btn-success pull-right">Add New</button>
+      <button type="button" onClick={this.props.onRowAdd} className="btn btn-info pull-right">Add New</button>
         <table className="table table-bordered">
           <thead>
             <tr>
