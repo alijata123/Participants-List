@@ -7,6 +7,6 @@ To download the project and work on it in your local machine, you need to:
 2. Go into the root folder "./cd Participants-List" and run "npm install" to install all dependencies from Node Package Manager.
 3. After "npm install" go to your browser and redirect to localhost port by copying and paste the url, http://localhost:3000/ or writing it manually into your browser.
 
-<----------------------------->
+----------------------------->
 That's all
 The app should be running now in your browser.
